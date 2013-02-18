@@ -5,7 +5,10 @@ RTL Button Plugin for OSX Mail.app
 
 Setup
 ===========
-Run install.sh
+Run install.sh:
+```
+./install.sh
+```
 
 Launch Mail and hopefully you'll see the new buttons in the mail compsition window:
 
