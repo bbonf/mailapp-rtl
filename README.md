@@ -7,7 +7,7 @@ Setup
 ===========
 Run install.sh
 Launch Mail and hopefully you'll see the new buttons in the mail compsition window:
-
+![screenshot](https://raw.github.com/bbonf/mailapp-rtl/master/screen.png "Screenshot")
 
 Removal
 ===========
